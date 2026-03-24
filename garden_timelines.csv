@@ -1,0 +1,13 @@
+flower name,flower_code,primary_color,xkcd_color1,xkcd_color2,xkcd_color_foliage1,xkcd_color_foliage2,bloom_date,full_bloom,bloom_end
+Red Tulip,tulip-r,Red,#EF4026,#EF4026,#15B01A,#15B01A,03-15,04-15,05-15
+Yellow Tulip,tulip-y,Yellow,#FFFF14,#FFFF14,#15B01A,#15B01A,03-15,04-15,05-15
+Pink Tulip,tulip-p,Pink,#FF81CO,#C20078,#15B01A,#15B01A,03-15,04-15,05-15
+Indigo Tulip,tulip-v,Purple,#C875C4,#C875C4,#15B01A,#15B01A,03-15,04-15,05-15
+Yellow Daffodil,daffodil-y,Yellow,#FFFF14,#FFFF14,#15B01A,#15B01A,03-15,04-15,05-15
+Purple Lilac,lilac-p,Purple,#c48efd,#c48efd,#02ab2e,#02ab2e,04-20,05-10,06-05
+White Lilac,lilac-w,White,#fdfdfe,#fdfdfe,#02ab2e,#02ab2e,04-20,05-10,06-05
+Red Paintbrush,paintbrush-r,Red,#fb2943,#fdff52,#c2ff89,#c2ff89,05-25,06-10,07-15
+Purple Columbine,columbine-p,Purple,#8b88f8,#fdfdfe,#15B01A,#15B01A,06-05,06-20,07-20
+Yellow Columbine,columbine-y,Yellow,#FFFF14,#fdfdfe,#15B01A,#15B01A,06-05,06-20,07-20
+White Yarrow,yarrow-w,White,#fdfdfe,#fdfdfe,#15B01A,#15B01A,06-20,07-20,09-10
+Yellow Yarrow,yarrow-y,Yellow,#faee66,#faee66,#15B01A,#15B01A,06-20,07-30,09-10
